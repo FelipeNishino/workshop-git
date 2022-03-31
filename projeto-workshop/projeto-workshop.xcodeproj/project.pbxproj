@@ -56,6 +56,7 @@
 		E2DEA75D27F62075000854B2 /* projeto-workshop */ = {
 			isa = PBXGroup;
 			children = (
+				E2DEA77427F63C77000854B2 /* Pasta3 */,
 				E2DEA77227F63A50000854B2 /* Pasta1 */,
 				E2DEA75E27F62075000854B2 /* AppDelegate.swift */,
 				E2DEA76027F62075000854B2 /* SceneDelegate.swift */,
@@ -73,6 +74,13 @@
 			children = (
 			);
 			path = Pasta1;
+			sourceTree = "<group>";
+		};
+		E2DEA77427F63C77000854B2 /* Pasta3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Pasta3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
