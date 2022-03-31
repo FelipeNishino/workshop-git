@@ -58,6 +58,7 @@
 			children = (
 				E2DEA77427F63C77000854B2 /* Pasta3 */,
 				E2DEA77227F63A50000854B2 /* Pasta1 */,
+				E2DEA77327F63A95000854B2 /* Pasta2 */,
 				E2DEA75E27F62075000854B2 /* AppDelegate.swift */,
 				E2DEA76027F62075000854B2 /* SceneDelegate.swift */,
 				E2DEA76227F62075000854B2 /* ViewController.swift */,
@@ -81,6 +82,11 @@
 			children = (
 			);
 			path = Pasta3;
+		E2DEA77327F63A95000854B2 /* Pasta2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Pasta2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
